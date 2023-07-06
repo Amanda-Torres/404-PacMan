@@ -1,4 +1,5 @@
-# 404 - PacMan 
+<h1 align="center"> 404-Pac Man </h1>
+
 ## Tecnologias utilizadas
 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -8,5 +9,6 @@
 
 ## Vizualização
 
-![image](https://github.com/4Maddy/404-PacMan/assets/106416909/968eca19-6716-4991-8dbe-973b8b2f1469)
+https://github.com/4Maddy/404-PacMan/assets/106416909/154ce155-a415-4480-8734-fe859207ad65
+
 
